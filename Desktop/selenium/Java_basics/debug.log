@@ -1,0 +1,12 @@
+[0503/011401.052:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0503/011401.053:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.053:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.054:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.054:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.054:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.054:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0503/011401.055:ERROR:exception_snapshot_win.cc(98)] thread ID 7768 not found in process
